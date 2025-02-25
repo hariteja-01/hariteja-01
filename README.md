@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **NeuroWave – AI/ML + Big Data**
 
-- 🌱 I’m currently learning **Frontend Frameworks, Python Flask, LLMs & NLP Python**
+- 🌱 I’m currently learning **LLMs, NLP & Python**
 
-- 📫 How to reach me **patnalahariteja@gmail.com**
+- 📫 Reach me via Mail: **patnalahariteja@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
