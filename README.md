@@ -37,11 +37,13 @@
 
 <!-- EPIC TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🚀+Full+Stack+Developer+%26+Innovator;🤖+Machine+Learning+Engineer;📊+Data+Science+Enthusiast;🧠+AI+%26+Deep+Learning+Explorer;💡+Problem+Solver+%26+Code+Architect;🌟+Open+Source+Contributor;🎯+Building+the+Future+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🚀+Full+Stack+Developer+%26+Innovator;🤖+Machine+Learning+Engineer;📊+Data+Science+Enthusiast;🧠+AI+%26+Deep+Learning+Explorer;💡+Problem+Solver+%26+Code+Architect;🌟+Open+Source+Contributor;🎯+Building+the+Future+with+AI&repeat=true&autoplay=true" alt="Typing SVG" />
 </p>
 
-<!-- MATRIX RAIN EFFECT -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Matrix Rain" width="100%"/>
+<!-- CONTRIBUTION SNAKE ANIMATION -->
+<div align="center">
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100%" alt="Contribution Animation">
+</div>
 
 <!-- LEGENDARY SOCIAL CONNECT WITH DYNAMIC STATS -->
 <p align="center">
@@ -71,7 +73,7 @@
 </p>
 
 <!-- EPIC CODING GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="900">
 
 </div>
 
@@ -80,7 +82,7 @@
 ## 👋 **About Me**
 
 <div align="center">
-<img align="right" alt="AI Developer" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="AI Developer" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
 ```javascript
@@ -167,7 +169,7 @@ console.log("Welcome to my digital universe! 🌌");
 ### 🎯 **My Mission Statement**
 > *"Transforming raw data into actionable insights and building intelligent systems that make a real difference in people's lives. Currently revolutionizing real estate analytics while exploring the infinite possibilities of artificial intelligence."*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
 
 ### 🌟 **What Drives Me**
 ```python
@@ -189,8 +191,8 @@ def my_passion():
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" align="left"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" align="right"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" align="left"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" align="right"/>
 
 ### 🚀 **Core Programming Languages**
 
@@ -203,7 +205,7 @@ def my_passion():
   <img src="https://img.shields.io/badge/R-Statistical_Computing-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=276DC3" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 
 ### 🤖 **Machine Learning & AI Frameworks**
 
@@ -226,7 +228,7 @@ def my_passion():
   <img src="https://img.shields.io/badge/Power_BI-Data_Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=F2C811" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="200">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200">
 
 ### 🌐 **Web Development & Frameworks**
 
@@ -266,7 +268,7 @@ def my_passion():
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400">
 </div>
 
 ---
@@ -325,7 +327,7 @@ def my_passion():
 **🔧 Tech Stack:** `Python` `Artificial Intelligence` `Game Testing` `Automation` `Computer Vision`  
 **🌟 Features:** Automated Testing • Bug Detection • Performance Analysis • AI-driven Reports
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="300">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
 
 </div>
 
